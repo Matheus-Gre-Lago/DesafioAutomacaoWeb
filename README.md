@@ -7,7 +7,7 @@
       * Java version 1.8 - 1.8.0_312
       * Project Language level - 8 
 
-  2.Bibliotecas
+  2. Bibliotecas
       - Selenium - 4.1.4
       - Selenium Shutterbug - 0.9.3
       - Extent Reports- 4.0.9
