@@ -19,4 +19,5 @@
 #### Teste
 
   Para o teste foi usado foi usada a aplicação https://automacaocombatista.herokuapp.com/home/index
-  O teste consiste em realizar novo cadastro de usuario e validar mesagem sua mensagem de cadastro. 
+  
+  O teste consiste em realizar novo cadastro de usuario e validar a mesagem de cadastro. 
